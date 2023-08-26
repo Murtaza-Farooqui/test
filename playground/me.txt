@@ -1,0 +1,5 @@
+{{#user}}
+Name: Murtaza Ahmed Farooqui
+Skills: HTML, CSS, JS, Next.js
+Email: murtazafaruqui6@gmail.com
+{{/user}}
